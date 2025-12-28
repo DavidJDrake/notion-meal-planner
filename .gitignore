@@ -29,5 +29,11 @@ logs/
 exports/
 backups/
 
+# Recipe data files
+recipes.txt
+import-log.txt
+test-recipe.txt
+*.pdf
+
 # Claude Code session files
 .claude/sessions/
