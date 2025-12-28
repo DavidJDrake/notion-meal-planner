@@ -1,0 +1,27 @@
+{
+  "name": "notion-meal-planner",
+  "version": "1.0.0",
+  "description": "An intelligent meal planning system that combines Notion databases for persistent storage with Claude Code for smart meal planning, ingredient aggregation, and shopping list generation.",
+  "main": "setup-databases.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidJDrake/notion-meal-planner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidJDrake/notion-meal-planner/issues"
+  },
+  "homepage": "https://github.com/DavidJDrake/notion-meal-planner#readme",
+  "dependencies": {
+    "@notionhq/client": "^5.6.0"
+  }
+}
